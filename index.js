@@ -9,3 +9,9 @@ function theBeatlesPlay(musicians, instruments) {
  }
  return array;
 }
+
+// okay, biggest problem with the for loops is the initialization bit--you keep forgetting to make it a VARIABLE "(var i = 0;)" instead of just (i=0) you pleb
+
+function johnLennonFacts(array) {
+  var 
+}
