@@ -19,9 +19,10 @@ function johnLennonFacts(array) {
   
   while (factsCounter > 0) {
     newArray.push(array[i] + "!!!")
+    factsCounter--
     i++
-    nu
   }
+  return array
 }
 
 
