@@ -35,8 +35,9 @@ function iLoveTheBeatles(num) {
   var array = []
   num++
   
-  do {array.push("I love the Beatles!")
-  i++
+  do {
+    array.push("I love the Beatles!")
+    i++
     } while(i<num)
   
   return(array)
