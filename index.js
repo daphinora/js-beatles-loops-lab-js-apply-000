@@ -38,7 +38,7 @@ function iLoveTheBeatles(num) {
   i++
     }
     while(i<num)
-    return()
+    return(array)
 }
 
 
