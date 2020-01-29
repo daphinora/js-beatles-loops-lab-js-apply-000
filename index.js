@@ -15,18 +15,18 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(array) {
   var i = 0;
   var newArray = []
-  var factsCounter = array.length
+ 
   
-  while (factsCounter > 0) {
+  while (array.length > 0) {
     newArray.push(array[i] + "!!!")
-    factsCounter--
+    array.length--
     i++
   }
   return newArray
 }
 
 
-
+// okay, the while loop. sigh. biggest problem was remembering to add the factsCounter variable--
 
 
 
