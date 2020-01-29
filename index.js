@@ -40,8 +40,7 @@ function iLoveTheBeatles(num) {
     while(i<num)
     return(array)
     
-  if (i=18)
-  return 
+  if (num === 18)
 }
 
 
