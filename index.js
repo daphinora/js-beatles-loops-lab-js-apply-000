@@ -36,9 +36,9 @@ function iLoveTheBeatles(num) {
   
   do {array.push("I love the Beatles!")
   i++
-    }
-    while(i<num)
-    return(array)
+    } while(i<num)
+  
+   return(array)
     
   if (num === 18) {
     return ("I love the Beatles!")
