@@ -34,7 +34,9 @@ function iLoveTheBeatles(num) {
   var i = 0
   var array = []
   
-  do ()
+  do {array.push()
+    
+  }
 }
 
 
