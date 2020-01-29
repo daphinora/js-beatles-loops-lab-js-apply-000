@@ -3,4 +3,6 @@
 function theBeatlesPlay(array) {
  var array = []
  
+ for(i=0; i<musicians.length; i++)
+ 
 }
