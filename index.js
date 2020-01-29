@@ -22,7 +22,7 @@ function johnLennonFacts(array) {
     factsCounter--
     i++
   }
-  return array
+  return newArray
 }
 
 
