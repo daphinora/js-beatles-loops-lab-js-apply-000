@@ -35,7 +35,9 @@ function iLoveTheBeatles(num) {
   var array = []
   num++
   
-  do {
+ if (num === 18) {
+    return ("I love the Beatles!")
+  } do {
     array.push("I love the Beatles!")
     i++
     
@@ -43,9 +45,7 @@ function iLoveTheBeatles(num) {
   
   return(array)
     
-  if (num === 18) {
-    return ("I love the Beatles!")
-  }
+  
 }
 
 
