@@ -48,6 +48,7 @@ function iLoveTheBeatles(num) {
   return(array)
 }
 
+// okay so yeah that didn't go as smoothly--but i did remember to set my empty array this time! what i did well: variables, the if-statement, and the array push. what i struggled with: the ++ statements (num++ and i++)
 
 
 
