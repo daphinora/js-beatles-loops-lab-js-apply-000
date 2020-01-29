@@ -21,3 +21,14 @@ function johnLennonFacts(array) {
     
   }
 }
+
+
+
+
+
+
+
+
+
+
+
