@@ -40,7 +40,9 @@ function iLoveTheBeatles(num) {
     while(i<num)
     return(array)
     
-  if (num === 18)
+  if (num === 18) {
+    return ("I love the Beatles!")
+  }
 }
 
 
