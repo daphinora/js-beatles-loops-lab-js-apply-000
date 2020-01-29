@@ -37,15 +37,15 @@ function iLoveTheBeatles(num) {
   
  if (num === 18) {
     return ("I love the Beatles!")
-  } do {
+  }
+
+ do {
     array.push("I love the Beatles!")
     i++
     
     } while(i<num)
   
   return(array)
-    
-  
 }
 
 
