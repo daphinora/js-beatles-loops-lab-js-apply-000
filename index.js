@@ -15,18 +15,26 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(array) {
   var i = 0;
   var newArray = []
- 
+  var factsCounter = array.length
   
-  while (array.length > 0) {
+  while (factsCounter > 0) {
     newArray.push(array[i] + "!!!")
-    array.length--
+    factsCounter--
     i++
   }
   return newArray
 }
 
 
-// okay, the while loop. sigh. biggest problem was remembering to add the factsCounter variable--
+// okay, the while loop. sigh. biggest problem was remembering to add the factsCounter variable--running it as "array.length" leads to an "undefined!!!" result :/ why? idk. i assume it's because you can't just say "array.lenght--" and have it work just fine. might be an internal thing? i'm not too sure why it wouldn't work. i'll explore it more later :/
+
+//okay, i just worked on this do-while loop like ten minutes ago. I should be able to do it just fine, yeah? yeah. fuck
+
+function iLoveTheBeatles(num) {
+  var i = 0
+  var 
+}
+
 
 
 
